@@ -18,7 +18,7 @@ export default function Home() {
           </h3>
         </div>
         <div className="title">
-          <h1>The Easies Way to Track Multiple Currencies</h1>
+          <h1>The Easiest Way to Track Multiple Currencies</h1>
         </div>
         <div className="description">
           <p className="subdue">
